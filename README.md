@@ -12,12 +12,12 @@ The **moderation** package provides a simple and efficient client for interactin
 
 1. Add the package to your project:
    ```bash
-   go get github.com/your_username/moderation
+   go get github.com/nguyenphu0903/openai-moderation-client
    ```
 
 2. Import the package into your code:
    ```go
-   import "github.com/your_username/moderation"
+   import "github.com/nguyenphu0903/openai-moderation-client"
    ```
 
 ## Usage
@@ -32,7 +32,7 @@ package main
 import (
 	"context"
 	"fmt"
-	"github.com/your_username/moderation"
+	"github.com/nguyenphu0903/openai-moderation-client"
 )
 
 func main() {
